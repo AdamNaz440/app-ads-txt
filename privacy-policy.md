@@ -9,6 +9,7 @@ This app uses Google AdMob to display advertisements. Google may collect and use
 
 - [Google Privacy Policy](https://policies.google.com/privacy)
 - [Google AdMob Policy](https://support.google.com/admob/answer/6128543)
+
 If you prefer, you can disable personalized ads through your Google account settings.
 
 3. Permissions
